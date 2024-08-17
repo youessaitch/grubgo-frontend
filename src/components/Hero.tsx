@@ -1,6 +1,3 @@
-import hero from "../assets/hero.png";
-import main from "../assets/main.jpg";
-import main1 from "../assets/main1.jpg";
 import gif2 from "../assets/gif3.gif";
 
 const Hero = () => {
