@@ -1,4 +1,4 @@
-import shankys from "../assets/shankys.jpg";
+import resss from "../assets/resss.jpg";
 import charcoal from "../assets/charcoal1.jpeg";
 import biryani from "../assets/biryaniKilo.jpg";
 import fp from "../assets/gif1.gif";
@@ -29,9 +29,9 @@ const HomePage = () => {
       description: "Delhi, India",
     },
     {
-      name: "Shanky's Chinese Tadka",
-      image: shankys,
-      description: "Chas, Bokaro",
+      name: "Kafferine",
+      image: resss,
+      description: "Kharagpur, India",
     },
     {
       name: "The Charcoal",
