@@ -2,7 +2,6 @@ import shankys from "../assets/shankys.jpg";
 import charcoal from "../assets/charcoal1.jpeg";
 import biryani from "../assets/biryaniKilo.jpg";
 import fp from "../assets/gif1.gif";
-import appDownloadImage from "../assets/appDownload.png";
 import SearchBar, { SearchForm } from "@/components/SearchBar";
 import { useNavigate } from "react-router-dom";
 import { Card, CardContent } from "@/components/ui/card";
